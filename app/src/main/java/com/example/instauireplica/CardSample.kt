@@ -3,7 +3,7 @@ package com.example.instauireplica
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.res.painterResource
 
-class CardSmple {
+class CardSample {
     @Composable
     fun generateSampleData(): List<CardModel> {
         return listOf(
